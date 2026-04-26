@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.local
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+data/exports/
+
+# Keep the folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+
+# IDE
+.vscode/
+.idea/
