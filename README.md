@@ -141,17 +141,23 @@ Static metadata for each ticker.
 - Cumulative return ranking by ticker
 - Date range slicer
 
+![Market Overview](docs/screenshots/page1_market_overview.png)
+
 ### Page 2 — Risk Analysis
 - Rolling 30-day volatility for all tickers
 - 90-day volatility ranking
 - Drawdown trends
 - Anomaly event count by ticker
 
+![Risk Analysis](docs/screenshots/page2_risk_analysis.png)
+
 ### Page 3 — Stock Deep Dive
 - Ticker slicer
 - Price + moving average trend
 - Cumulative return over time
 - Drawdown and rolling volatility
+
+![Stock Deep Dive](docs/screenshots/page3_stock_deep_dive.png)
 
 ---
 
